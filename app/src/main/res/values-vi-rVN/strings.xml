@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidLab</string>
-    <string name="hello_message">Xin Chào!</string>
+    <string name="hello_message">Nhìn GUI xem này</string>
     <string name="ButtonText">Đây là một cái nút</string>
+    <string name="checkboxText">Nháy thử xem!</string>
+    <string name="switchText">Bật / Tắt</string>
+    <string name="EditText">Gõ chữ</string>
+    <string name="toast_message">Thông tin chi tiết</string>
+    <string name="switchOn">Nút đang bật</string>
+    <string name="switchOff">Nút đã tắt</string>
+    <string name="undo">Quay lại</string>
 </resources>
